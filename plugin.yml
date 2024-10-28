@@ -1,0 +1,7 @@
+name: 'RandomTeleport'
+version: '1.0.0'
+main: 'RandomTeleport'
+api: '5.20.0'
+
+website: 'https://github.com/n1ghtm4r88'
+author: 'n1ghtm4r88'
